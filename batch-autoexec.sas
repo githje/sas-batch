@@ -1,1 +1,1 @@
-%let ENVLOC=/nfsshare;
+%let ENVLOC=/shared;
