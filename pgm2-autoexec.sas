@@ -1,0 +1,1 @@
+/* autoexec (JCL) for pgm2 */
