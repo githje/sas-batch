@@ -1,3 +1,4 @@
+/* demo this */
 %put Found this environment location setting: &ENVLOC.;
 libname dataloc "&ENVLOC./mydata";
 
